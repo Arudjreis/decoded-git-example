@@ -4,7 +4,7 @@
 nickname = "Aaron"
 
 #Integer
-money_in_checking = 14
+money_in_checking = 24
 
 #Float
 money_in_savings = 3.50
